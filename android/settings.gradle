@@ -1,0 +1,3 @@
+rootProject.name = 'doshi'
+
+include ':app'
