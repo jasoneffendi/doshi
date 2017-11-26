@@ -15,7 +15,7 @@ export default class App extends React.Component {
         <Text>Choose a name for your Doshi!</Text>
         <Button
         title="Press to continue"
-        onPress={() => {navigate('')}}/>
+        onPress={() => {navigate('Main')}}/>
       </View>
     );
   }
