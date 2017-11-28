@@ -3384,6 +3384,10 @@ react-native-tab-view@^0.0.70:
   dependencies:
     prop-types "^15.5.10"
 
+react-native-tts@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/react-native-tts/-/react-native-tts-1.4.1.tgz#6b4bcd9416de5f3e8bc06c285e8a97d0764aff1b"
+
 react-native-voice@^0.2.5:
   version "0.2.5"
   resolved "https://registry.yarnpkg.com/react-native-voice/-/react-native-voice-0.2.5.tgz#ba22123e6f25e74d3b0ce6ad7daaa081a16ced4b"

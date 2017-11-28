@@ -123,10 +123,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native Voice!
-        </Text>
-        <Text style={styles.instructions}>
-          Press the button and start speaking.
+          Welcome to Doshi!
         </Text>
         <Text
           style={styles.stat}>
