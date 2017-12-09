@@ -1,9 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
-
 import React, { Component } from 'react';
 import {
   Platform,
@@ -18,10 +12,10 @@ import store from './store/store'
 import Stack from './config/router'
 
 const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' +
-    'Cmd+D or shake for dev menu',
-  android: 'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
+  ios: 'We have detected that you are using ios,\n' +
+    'Doshi ios',
+  android: 'We have detected that you are using android,\n' +
+    'Doshi Android',
 });
 
 export default class App extends Component {
